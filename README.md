@@ -27,10 +27,10 @@ These are parsed into structured instructions and executed in the scene.
 
 ## 🗂 Files
 
-| File | Description |
+|| Description |
 |------|-------------|
-| `drone_mission_scene.ttt` | CoppeliaSim scene file with drone and `/target` object |
-| `lang_parse_combined.py` | Rule-based natural language GUI mission controller |
+| `| CoppeliaSim scene file with drone and `/target` object |
+| `| Rule-based natural language GUI mission controller |
 
 ---
 
